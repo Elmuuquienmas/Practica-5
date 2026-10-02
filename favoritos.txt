@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Tacos
 Pizza
 Hamburguesas
+=======
+Interstellar
+Inception
+Gladiator
+>>>>>>> peliculas
 
